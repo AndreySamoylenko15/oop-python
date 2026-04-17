@@ -48,7 +48,7 @@
 python Class.py
 
 
-##📁 Структура
+## 📁 Структура
 
 OOP/
 │── Class.py
